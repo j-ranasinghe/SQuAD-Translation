@@ -1,0 +1,9 @@
+{
+    "input_file": "D:/Desktop/FY/FYP/QA_Translator/data/SQuAD1.1/train-v1.1.json",
+    "output_file": "D:/Desktop/FY/FYP/QA_Translator/data/Translated_QAs/squad-translation-dev.json", 
+    "credentials_path": "D:/Desktop/FY/FYP/QA_Translator/Credentials/credentials.json",
+    "cleaned_output_file": "D:/Desktop/FY/FYP/QA_Translator/data/Cleaned_QAs/cleaned_sinhala_dev_squad.json",
+    "error_output_file": "D:/Desktop/FY/FYP/QA_Translator/data/Error_QAs/cleaning_errors_training.json",
+    "max_contexts": 10000,
+    "batch_size": 5
+  }
